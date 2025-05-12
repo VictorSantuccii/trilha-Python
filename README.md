@@ -5,7 +5,7 @@
 ```markdown
 # 🐍 Trilha de Estudos: Python
 
-Bem-vindo(a) à **Trilha de Estudos em Python**, onde você vai mergulhar de forma progressiva e prática na linguagem que está em **alta** no mercado, tanto para **back-end**, **automação**, **data science** quanto **APIs e scripts inteligentes**.
+Bem-vindo(a) à **Trilha de Estudos em Python**, onde você vai aprofundar de forma progressiva e prática na linguagem que está em **alta** no mercado, tanto para **back-end**, **automação**, **data science** quanto **APIs e scripts inteligentes**.
 
 ---
 

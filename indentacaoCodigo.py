@@ -75,3 +75,8 @@ exemplo_aninhado(3)
 # ✅ DICA FINAL:
 # Use editores como VS Code ou PyCharm com indentação automática
 # e extensões como 'Black' para formatar seu código com padrão profissional.
+
+# ⚠️ Tabulação vs Espaços em Python
+
+# No Python, a indentação pode ser feita com tabulação ou com espaços — 
+# mas NÃO PODE misturar os dois no mesmo bloco. Isso gera erro de sintaxe.

@@ -6,11 +6,15 @@ tuplaVazia = ()
 tuplaStrings = ('Oi', 'Olá', 'Bom dia!')
 
 primeiro = tuplaStrings[0]
+
 print(primeiro)
+
 ultimo = tuplaStrings[-1]
+
 print(ultimo)
 
 terceiro = tuplaStrings[2]
+
 print(terceiro)
 
 tamanho = len(tuplaStrings)

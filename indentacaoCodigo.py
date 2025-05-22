@@ -6,12 +6,20 @@
 # --------------------------------------
 
 # ✅ CONDICIONAIS: if, elif, else
+
+
+
 idade = 20
 
 if idade >= 18:
     print("Você é maior de idade")  # Esse print está dentro do 'if'
 else:
     print("Você é menor de idade")  # Esse print está dentro do 'else'
+
+
+
+
+
 
 # ✅ LAÇOS DE REPETIÇÃO: for, while
 for i in range(3):
@@ -22,12 +30,22 @@ while contador < 3:
     print("Laço while, contador:", contador)  # Está dentro do 'while'
     contador += 1
 
+
+
+
+
+
 # ✅ FUNÇÕES: def
 def saudacao(nome):
     # Tudo dentro da função deve ser indentado
     print(f"Olá, {nome}!")  # Está dentro da função
 
 saudacao("Sant")
+
+
+
+
+
 
 # ✅ CLASSES
 class Pessoa:
@@ -42,12 +60,21 @@ class Pessoa:
 p = Pessoa("Victor")
 p.dizer_ola()
 
+
+
+
+
+
 # ✅ ESTRUTURAS COMBINADAS: if dentro de for
 for numero in range(5):
     if numero % 2 == 0:
         print(f"{numero} é par")
     else:
         print(f"{numero} é ímpar")
+
+
+
+
 
 # ✅ BLOCO VAZIO: usar 'pass'
 # Se você quiser deixar um bloco em branco por enquanto, use 'pass'
@@ -57,6 +84,10 @@ def futura_funcao():
 # ❌ ERRO COMUM: falta de indentação
 # if True:
 # print("Isso vai dar erro")  # ERRO! Está fora do bloco
+
+
+
+
 
 # ✅ CORRETO:
 if True:
@@ -71,6 +102,11 @@ def exemplo_aninhado(x):
         print("Valor inválido")
 
 exemplo_aninhado(3)
+
+
+
+
+
 
 # ✅ DICA FINAL:
 # Use editores como VS Code ou PyCharm com indentação automática

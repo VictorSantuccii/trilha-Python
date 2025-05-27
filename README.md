@@ -181,9 +181,7 @@ Você pode contribuir com essa trilha:
 
 ---
 
-## 👨‍💻 Autor
-
-Desenvolvido por Victor Santucci 
+## 👨‍💻 
 
 > “Python é a linguagem da produtividade. Seja simples, direto e poderoso.”
 

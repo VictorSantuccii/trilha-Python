@@ -32,7 +32,7 @@ Bem-vindo(a) à **Trilha de Estudos em Python**, onde você vai aprofundar de fo
 | 04     | Web Scraping + Requests + BeautifulSoup   | Requisições HTTP, parsing de páginas, scraping inteligente              |
 | 05     | Criação de APIs com Flask e FastAPI       | Rotas, métodos HTTP, JSON, middlewares, validação com Pydantic          |
 | 06     | Banco de dados com SQLAlchemy             | CRUD, migrations, relações, integração com PostgreSQL                   |
-| 07     | Testes automatizados                      | `unittest`, `pytest`, cobertura, mocks                                  |
+| 07     | Testes automatizados                      | `unittest`, `pytest`, cobertura, mock                                   |
 | 08     | Deploy com Docker + Heroku + Railway      | Dockerfile, Compose, deploy, configs com `.env`, produção               |
 
 ---

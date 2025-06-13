@@ -125,3 +125,14 @@ except FileNotFoundError:
     print(f"Erro: o arquivo '{caminho}' não foi encontrado.")
 finally:
     print("Tentativa de leitura finalizada.")
+
+
+
+# Bloco	O que faz
+# try	Código que pode gerar erro
+# except	Bloco que captura erro (pode ter mais de um)
+# except as e	Captura o erro como objeto para inspecionar mensagem
+# else	Executado se não ocorrer erro no try
+# finally	Sempre executado, mesmo com erro
+# raise	Lança uma exceção manualmente
+# Exceções personalizadas	Criadas com classes herdando de Exception

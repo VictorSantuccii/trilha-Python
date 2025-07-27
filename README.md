@@ -12,7 +12,7 @@ Bem-vindo(a) à **Trilha de Estudos em Python**, onde você vai aprofundar de fo
 ## 🎯 Objetivo
 
 > Dominar o Python moderno para:
-- Desenvolver scripts e automações 
+- Desenvolver scripts e automações em python
 - Criar APIs RESTful com Flask e FastAPI
 - Trabalhar com banco de dados (PostgreSQL, SQLite)
 - Fazer scraping, manipulação de dados e análise

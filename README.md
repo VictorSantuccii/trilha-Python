@@ -110,7 +110,7 @@ Bem-vindo(a) à **Trilha de Estudos em Python**, onde você vai aprofundar de fo
 - Criação de APIs REST com Flask e FastAPI
 - Rotas GET, POST, PUT, DELETE
 - Validação com Pydantic (FastAPI)
-- Middlewares, JWT e autenticação simples
+- Middlewares, JWT e autenticação 
 
 ---
 

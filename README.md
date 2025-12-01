@@ -62,7 +62,7 @@ Bem-vindo(a) à **Trilha de Estudos em Python**, onde você vai aprofundar de fo
 ### ✅ Conteúdo:
 - Sintaxe básica, tipos primitivos, estruturas de decisão e repetição
 - Funções, módulos, imports
-- Listas, dicionários, tuplas, sets
+- Listas, dicionários, tuplas, settings
 - Boas práticas com `pep8` e docstrings
 
 ---
